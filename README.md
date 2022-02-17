@@ -165,9 +165,9 @@
 
 - 유저들이 파티에 같이 참여하고 있는 파티원들과 함께 채팅을 주고 받을 수 있는 공간입니다.
 
-![채팅사진1](https://user-images.githubusercontent.com/87872966/154409816-2a162b80-a56e-4601-ab7f-7141f0255a51.PNG)
+![채팅](https://user-images.githubusercontent.com/87872966/154418401-36e9fc5c-7bca-43d3-afdc-e0b5741dd1ce.PNG)
 
-![채팅사진2](https://user-images.githubusercontent.com/87872966/154409821-036b1768-0106-4231-9829-b7bec502b425.png)
+![채팅2](https://user-images.githubusercontent.com/87872966/154418408-49d00e8b-4c28-490b-bbff-0573ccb280fc.PNG)
 
 <div id="3"></div>
 
