@@ -296,7 +296,7 @@
 # Front-end setup
  ```
 # Front-end/woorisaza
-npm install
+npm install 
 npm run serve
  ```
 # Back-end setup
