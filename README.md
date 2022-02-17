@@ -38,8 +38,8 @@
 # 공구의 시작, 우리사자 🦁
 
 <p align="center">
-  <div align="center"><img src="/uploads/e6997aa249035b19db883a8af7b32e7c/icon.png" width="30%"/></div>
-  <div align="center"><img src="/uploads/df554bccefa2835415e8afe724fe4a2b/우리사자.PNG" width="20%"/></div>
+  <div align="center"><img src="https://user-images.githubusercontent.com/87872966/154410506-8b26de65-8cb3-48a9-a28f-d354f3293f55.png" width="30%"/></div>
+  <div align="center"><img src="https://user-images.githubusercontent.com/87872966/154410495-cb7ab616-8888-4d49-ac28-72fa72c5b5dd.PNG" width="20%"/></div>
 </p>
 
 ## 목차 
@@ -103,7 +103,6 @@
 ![main](https://user-images.githubusercontent.com/87872966/154408475-3126f255-ef42-4ca1-9672-b838e55895e3.gif)
 
 
-
 ### 2.2 이거사자
 
 - 유저들이 올린 공동구매 게시글을 볼 수 있는 공간입니다.
@@ -111,8 +110,12 @@
 - 카테고리, 지역범위에 따라 필터링해서 게시글을 볼 수 있습니다.
 - 검색어를 입력하면 제목 또는 내용에 검색어가 포함된 게시글을 볼 수 있습니다.
 - 게시글의 장바구니 버튼을 눌러서 찜을 할 수 있습니다.
+
+![이거사자](https://user-images.githubusercontent.com/87872966/154408723-e9ad2b7c-d59c-4528-b8dc-65e3869690dd.PNG)
+
 - 게시글을 누르면 해당 게시글의 디테일 페이지로 이동합니다.
 
+![게시글 상세조회](https://user-images.githubusercontent.com/87872966/154408810-f37149bc-c411-418f-b3da-d5831390829b.PNG)
 
 
 ### 2.3 마이사자
@@ -122,18 +125,21 @@
   카드는 본인이었을 경우에만 누를 수 있고 누르면 마이페이지로 이동합니다.
 - `참가한 파티` 탭에서는 해당 유저가 현재 참가하고 있는 파티 리스트를 볼 수 있습니다.
   파티를 누르면 해당 파티의 파티 디테일 페이지로 이동합니다.
+
 - `개설한 파티`  탭에서는 해당 유저가 개설한 파티 리스트를 볼 수 있습니다.
   파티를 누르면 해당 파티의 파티 디테일 페이지로 이동합니다.
+
 - `댓글` 탭에서는 해당 유저가 단 댓글 리스트를 볼 수 있습니다. 댓글을 누르면 해당 댓글이 달린 게시글로 이동합니다.
+
 - `후기` 탭에서는 해당 유저에게 달린 후기 리스트를 볼 수 있습니다.
 
-
+![마이사자](https://user-images.githubusercontent.com/87872966/154412506-cefcbc11-0f54-433e-8550-501b48d12cb7.gif)
 
 ### 2.4 가이드
 
 - 사용자들이 `우리사자`를 쉽게 이용할 수 있도록 가이드를 제공합니다.
 
-![guide](/uploads/a21129e20d86d2fdb2242be7f2fb717a/guide.gif)
+![guide](https://user-images.githubusercontent.com/87872966/154409749-af69d632-4b88-4c3b-89ad-5aa0baaa719d.gif)
 
 
 
@@ -146,11 +152,15 @@
 - `나의 1:1 문의` 탭에서는 `문의하기` 버튼을 눌러서 문의글을 작성할 수 있고, 자신의 문의글 리스트를 볼 수 있습니다.
 - `내가 쓴 후기` 탭에서는 자신이 작성한 후기 리스트를 볼 수 있습니다.
 
-
+![마이페이지](https://user-images.githubusercontent.com/87872966/154412511-82798f5c-b983-446d-860b-9355e353873c.gif)
 
 ### 2.6 채팅
 
 - 유저들이 파티에 같이 참여하고 있는 파티원들과 함께 채팅을 주고 받을 수 있는 공간입니다.
+
+![채팅사진1](https://user-images.githubusercontent.com/87872966/154409816-2a162b80-a56e-4601-ab7f-7141f0255a51.PNG)
+
+![채팅사진2](https://user-images.githubusercontent.com/87872966/154409821-036b1768-0106-4231-9829-b7bec502b425.png)
 
 <div id="3"></div>
 
@@ -158,19 +168,19 @@
 
 ### 3.1 아키텍처
 
-![아키텍처](/uploads/d8e41e09e3c659370361c650d58bde07/아키텍처.png)
+![아키텍처](https://user-images.githubusercontent.com/87872966/154410449-d9bd3232-dfa0-438c-95a8-374b59a27643.png)
 
 ### 3.2 ERD
 
 > [Entity-Relationship Diagram](https://www.erdcloud.com/d/fQPhoGfc9uvhgeEqL)
 
-![ERD](/uploads/4f45af1f48a8e2ac6d5997e426f5dae7/ERD.png)
+![ERD](https://user-images.githubusercontent.com/87872966/154410476-45171825-b710-48d4-bed7-735e302c0585.png)
 
 ### 3.3 UI 프로토타입
 
 > [ UI Prototype](https://www.figma.com/file/89ipYukI0aTZRnJ7tCbhpQ/%EC%88%98%EC%83%81%ED%95%9C%EC%82%AC%EB%9E%8C%EB%93%A4-team-library?node-id=0%3A1)
 
-![UI](/uploads/0ae0b0899f81ddcfbf9df96f6a5885af/UI.PNG)
+![UI](https://user-images.githubusercontent.com/87872966/154410480-7c191740-3c5b-4637-bc62-2066999dc1aa.PNG)
 
 
 
@@ -178,7 +188,7 @@
 
 > [Usecase Diagram](https://app.diagrams.net/#G141ohjTX3GOldM-FH4RdT4x81qykGr-Qv)
 
-![usecase](/uploads/78f50c3d2b3a47760c3123480419233a/usecase.png)
+![usecase](https://user-images.githubusercontent.com/87872966/154410487-2f4d08e1-4679-43a4-adaa-aa250bb88c34.png)
 
 
 
