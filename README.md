@@ -303,3 +303,21 @@
 | 68   | F18-01      | 채팅                   | 채팅방 리스트                         | 현재 내가 참가하고 있는 채팅방을 보여준다.                   | 상       |
 | 69   | F18-02      | 채팅                   | 채팅하기                              | 채팅방을 클릭하여 들어가면 현재까지의 채팅글이 보이고, 채팅 글을 입력할 수 있다. | 상       |
 
+설치
+-------
+
+# Front-end setup
+ ```
+# Front-end/woorisaza
+npm install
+npm run serve
+ ```
+# Back-end setup
+ ```
+# Back-end
+mvn install
+
+# Back-end/SimpleUpload
+npm install
+node SimpleImageUpload.js
+ ```
