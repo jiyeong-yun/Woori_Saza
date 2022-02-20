@@ -13,7 +13,7 @@ import java.net.URLEncoder;
 @Component
 public class GeoLocationUtil {
 
-    private final static String API_KEY = "AIzaSyBnaiR9ZGEyEe8VhfhAgQxSiGStnkmrU-w";
+    private final static String API_KEY = "Your Google Map API KEY";
     private final static String PRE_URL = "https://maps.googleapis.com/maps/api/geocode/json?address="; // + URLEncoder.encode(LOCATION, "UTF-8")+"&key="+API_KEY;
 
     public Double[] parseLocationToLngLat(String location) {
