@@ -179,9 +179,7 @@
 
 ### 3.2 ERD
 
-> [Entity-Relationship Diagram](https://www.erdcloud.com/d/fQPhoGfc9uvhgeEqL)
-
-![ERD](https://user-images.githubusercontent.com/87872966/154410476-45171825-b710-48d4-bed7-735e302c0585.png)
+![entityManagerFactory(EntityManagerFactoryBuilder)](https://user-images.githubusercontent.com/70522500/154844091-9195605d-cc13-49da-a23a-639f8e30a470.png)
 
 ### 3.3 UI 프로토타입
 
