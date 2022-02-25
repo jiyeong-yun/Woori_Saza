@@ -1,6 +1,7 @@
 # Woori_Saza
 🦁이웃들과 함께하는 공동구매 사이트🦁
-🎉삼성청년SW아카데미 2학기 공통프로젝트 광주1반 최우수상🎉
+
+🎉**삼성청년SW아카데미 2학기 공통프로젝트 광주1반 최우수상**🎉
 
 
 ## 프로젝트 소개
@@ -293,16 +294,16 @@
 
 # Front-end setup
  ```
-# woorisaza
+# 📁woorisaza
 npm install 
 npm run serve
  ```
 # Back-end setup
  ```
-# Back-end
+# 📁Back-end
 mvn install
 
-# Back-end/SimpleUpload
+# 📁Back-end/SimpleUpload
 npm install
 node SimpleImageUpload.js
  ```
