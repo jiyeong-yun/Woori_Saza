@@ -34,6 +34,7 @@ public class ChatController {
 
     /**
      * websocket "/pub/chat/message"로 들어오는 메시징을 처리한다.
+     * 참고 : https://dev-gorany.tistory.com/235, https://daddyprogrammer.org/post/4731/spring-websocket-chatting-server-redis-pub-sub/
      */
     @MessageMapping("/chat/message")
     public void message(ChatMessageDto message) {
